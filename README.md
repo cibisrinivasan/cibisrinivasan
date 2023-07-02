@@ -1,5 +1,5 @@
 # Cibi Pranavan
-<h3 align="left">I am Cibi Pranavan, the Technical Product Manager and Cloud Subject Matter Expert at MontyCloud. With an astute blend of technical prowess and strategic acumen, I play a pivotal role in orchestrating cutting-edge cloud solutions. My background in Multi-Cloud and DevOps has honed my expertise, enabling me to be an architect of digital transformation. I am dedicated to the seamless integration of technology with business objectives. Let's connect to shape the cloudscape of tomorrow./</h3>
+<h3 align="left">I am Cibi Pranavan, the Technical Product Manager and Cloud Subject Matter Expert at MontyCloud. With an astute blend of technical prowess and strategic acumen, I play a pivotal role in orchestrating cutting-edge cloud solutions. My background in Multi-Cloud and DevOps has honed my expertise, enabling me to be an architect of digital transformation. I am dedicated to the seamless integration of technology with business objectives. Let's connect to shape the cloudscape of tomorrow</h3>
 
 - 🔭 I’m currently working as **Technical Product Manager & Cloud SME**
 
