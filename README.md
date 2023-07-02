@@ -1,11 +1,9 @@
 # Cibi Pranavan
-<h3 align="left">I'm Cibi from India, and I am Cloud Consultant. Experienced in Multi Cloud and Devops with a demonstrated history of three years. Skilled in Azure, AWS, Docker, Kubernetes, build release and Version control tools with strong knowledge on architect, operations, development, deployment and maintenance. You can check out my LinkedIn https://www.linkedin.com/in/cibi-pranavan/</h3>
+<h3 align="left">I am Cibi Pranavan, the Technical Product Manager and Cloud Subject Matter Expert at MontyCloud. With an astute blend of technical prowess and strategic acumen, I play a pivotal role in orchestrating cutting-edge cloud solutions. My background in Multi-Cloud and DevOps has honed my expertise, enabling me to be an architect of digital transformation. I am dedicated to the seamless integration of technology with business objectives. Let's connect to shape the cloudscape of tomorrow./</h3>
 
-- 🔭 I’m currently working as **Cloud Consultant**
+- 🔭 I’m currently working as **Technical Product Manager & Cloud SME**
 
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Azure, Terraform, Devops**
+- 💬 Ask me about **Azure, AWS, Terraform, Devops**
 
 - 📫 How to reach me **cibipranavan18@gmail.com**
 
